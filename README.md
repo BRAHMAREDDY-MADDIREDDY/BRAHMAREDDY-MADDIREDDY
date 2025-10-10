@@ -19,7 +19,7 @@ With experience in Machine Learning, Data Visualization, and ETL automation, I e
 
 ## 💼 Experience  
 
-### 🔹 Data Analyst Intern – SoftBiz Tech, Paris  
+### 🔹 Data Analyst Intern – SoftBiz Tech,  
 - Developed automated dashboards using Python (Pandas, Plotly) to monitor KPIs and performance metrics.  
 - Cleaned and transformed large datasets, reducing data processing time by **30%**.  
 - Designed SQL queries for data validation and reporting, improving accuracy by **25%**.  
